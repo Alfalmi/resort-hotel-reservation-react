@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/resort-hotel-reservation-react/static/css/main.6c71d306.chunk.css",
+    "main.js": "/resort-hotel-reservation-react/static/js/main.8435ed66.chunk.js",
+    "main.js.map": "/resort-hotel-reservation-react/static/js/main.8435ed66.chunk.js.map",
+    "runtime-main.js": "/resort-hotel-reservation-react/static/js/runtime-main.0c8ebd38.js",
+    "runtime-main.js.map": "/resort-hotel-reservation-react/static/js/runtime-main.0c8ebd38.js.map",
+    "static/js/2.e70a1643.chunk.js": "/resort-hotel-reservation-react/static/js/2.e70a1643.chunk.js",
+    "static/js/2.e70a1643.chunk.js.map": "/resort-hotel-reservation-react/static/js/2.e70a1643.chunk.js.map",
+    "static/js/3.071bb58d.chunk.js": "/resort-hotel-reservation-react/static/js/3.071bb58d.chunk.js",
+    "static/js/3.071bb58d.chunk.js.map": "/resort-hotel-reservation-react/static/js/3.071bb58d.chunk.js.map",
+    "index.html": "/resort-hotel-reservation-react/index.html",
+    "static/css/main.6c71d306.chunk.css.map": "/resort-hotel-reservation-react/static/css/main.6c71d306.chunk.css.map",
+    "static/js/2.e70a1643.chunk.js.LICENSE.txt": "/resort-hotel-reservation-react/static/js/2.e70a1643.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/resort-hotel-reservation-react/static/media/room-2.48c60181.jpeg",
+    "static/media/logo.54a9b9cb.svg": "/resort-hotel-reservation-react/static/media/logo.54a9b9cb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c8ebd38.js",
+    "static/js/2.e70a1643.chunk.js",
+    "static/css/main.6c71d306.chunk.css",
+    "static/js/main.8435ed66.chunk.js"
+  ]
+}
