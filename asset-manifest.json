@@ -1,24 +1,40 @@
 {
   "files": {
     "main.css": "/resort-hotel-reservation-react/static/css/main.6c71d306.chunk.css",
-    "main.js": "/resort-hotel-reservation-react/static/js/main.8435ed66.chunk.js",
-    "main.js.map": "/resort-hotel-reservation-react/static/js/main.8435ed66.chunk.js.map",
+    "main.js": "/resort-hotel-reservation-react/static/js/main.a40b43e4.chunk.js",
+    "main.js.map": "/resort-hotel-reservation-react/static/js/main.a40b43e4.chunk.js.map",
     "runtime-main.js": "/resort-hotel-reservation-react/static/js/runtime-main.0c8ebd38.js",
     "runtime-main.js.map": "/resort-hotel-reservation-react/static/js/runtime-main.0c8ebd38.js.map",
-    "static/js/2.e70a1643.chunk.js": "/resort-hotel-reservation-react/static/js/2.e70a1643.chunk.js",
-    "static/js/2.e70a1643.chunk.js.map": "/resort-hotel-reservation-react/static/js/2.e70a1643.chunk.js.map",
+    "static/js/2.1a30fae6.chunk.js": "/resort-hotel-reservation-react/static/js/2.1a30fae6.chunk.js",
+    "static/js/2.1a30fae6.chunk.js.map": "/resort-hotel-reservation-react/static/js/2.1a30fae6.chunk.js.map",
     "static/js/3.071bb58d.chunk.js": "/resort-hotel-reservation-react/static/js/3.071bb58d.chunk.js",
     "static/js/3.071bb58d.chunk.js.map": "/resort-hotel-reservation-react/static/js/3.071bb58d.chunk.js.map",
     "index.html": "/resort-hotel-reservation-react/index.html",
     "static/css/main.6c71d306.chunk.css.map": "/resort-hotel-reservation-react/static/css/main.6c71d306.chunk.css.map",
-    "static/js/2.e70a1643.chunk.js.LICENSE.txt": "/resort-hotel-reservation-react/static/js/2.e70a1643.chunk.js.LICENSE.txt",
+    "static/js/2.1a30fae6.chunk.js.LICENSE.txt": "/resort-hotel-reservation-react/static/js/2.1a30fae6.chunk.js.LICENSE.txt",
     "static/media/App.css": "/resort-hotel-reservation-react/static/media/room-2.48c60181.jpeg",
-    "static/media/logo.54a9b9cb.svg": "/resort-hotel-reservation-react/static/media/logo.54a9b9cb.svg"
+    "static/media/details-1.c4851740.jpeg": "/resort-hotel-reservation-react/static/media/details-1.c4851740.jpeg",
+    "static/media/details-2.dc89255d.jpeg": "/resort-hotel-reservation-react/static/media/details-2.dc89255d.jpeg",
+    "static/media/details-3.f525a3c8.jpeg": "/resort-hotel-reservation-react/static/media/details-3.f525a3c8.jpeg",
+    "static/media/details-4.f2053654.jpeg": "/resort-hotel-reservation-react/static/media/details-4.f2053654.jpeg",
+    "static/media/loading-arrow.dd29210f.gif": "/resort-hotel-reservation-react/static/media/loading-arrow.dd29210f.gif",
+    "static/media/logo.54a9b9cb.svg": "/resort-hotel-reservation-react/static/media/logo.54a9b9cb.svg",
+    "static/media/room-1.05b90599.jpeg": "/resort-hotel-reservation-react/static/media/room-1.05b90599.jpeg",
+    "static/media/room-10.681615dc.jpeg": "/resort-hotel-reservation-react/static/media/room-10.681615dc.jpeg",
+    "static/media/room-11.1605f19e.jpeg": "/resort-hotel-reservation-react/static/media/room-11.1605f19e.jpeg",
+    "static/media/room-12.7dee4920.jpeg": "/resort-hotel-reservation-react/static/media/room-12.7dee4920.jpeg",
+    "static/media/room-3.92fc5b83.jpeg": "/resort-hotel-reservation-react/static/media/room-3.92fc5b83.jpeg",
+    "static/media/room-4.10d2e64a.jpeg": "/resort-hotel-reservation-react/static/media/room-4.10d2e64a.jpeg",
+    "static/media/room-5.a7c5e078.jpeg": "/resort-hotel-reservation-react/static/media/room-5.a7c5e078.jpeg",
+    "static/media/room-6.3697aea3.jpeg": "/resort-hotel-reservation-react/static/media/room-6.3697aea3.jpeg",
+    "static/media/room-7.d2c011f0.jpeg": "/resort-hotel-reservation-react/static/media/room-7.d2c011f0.jpeg",
+    "static/media/room-8.5b658df9.jpeg": "/resort-hotel-reservation-react/static/media/room-8.5b658df9.jpeg",
+    "static/media/room-9.18aabe9f.jpeg": "/resort-hotel-reservation-react/static/media/room-9.18aabe9f.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.0c8ebd38.js",
-    "static/js/2.e70a1643.chunk.js",
+    "static/js/2.1a30fae6.chunk.js",
     "static/css/main.6c71d306.chunk.css",
-    "static/js/main.8435ed66.chunk.js"
+    "static/js/main.a40b43e4.chunk.js"
   ]
 }
